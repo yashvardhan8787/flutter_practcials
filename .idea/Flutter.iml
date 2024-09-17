@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Hello_World/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Hello_World/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Hello_World/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigation_Between_Two_Screens/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigation_Between_Two_Screens/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigation_Between_Two_Screens/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text_Input/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text_Input/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text_Input/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
